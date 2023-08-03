@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2023-08-03T16:38:53.169Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.0.0 Safari/537.36 Edg/115.0.1901.188" version="21.6.6" etag="xDjTiw3lDUmf_aYDwp8Y" type="github">
+<mxfile host="app.diagrams.net" modified="2023-08-03T16:59:47.547Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.0.0 Safari/537.36 Edg/115.0.1901.188" etag="QotD9gqYW0O6EkwQ0AHa" version="21.6.6" type="github">
   <diagram id="prtHgNgQTEPvFCAcTncT" name="Page-1">
-    <mxGraphModel dx="1223" dy="871" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1434" dy="796" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -36,6 +36,126 @@
             <mxGeometry x="490" y="180" width="180" height="80" as="geometry" />
           </mxCell>
         </UserObject>
+        <mxCell id="WWhDUVCSwJI-fkxGkbqV-10" value="" style="group" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="370" y="430" width="220" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="WWhDUVCSwJI-fkxGkbqV-2" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WWhDUVCSwJI-fkxGkbqV-10">
+          <mxGeometry width="220" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="WWhDUVCSwJI-fkxGkbqV-9" value="Réduire la quantité de déchets non traités et non recyclés dans le bidonville de Pandou de 30% d&#39;ici la fin de l&#39;année 2025." style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="WWhDUVCSwJI-fkxGkbqV-10">
+          <mxGeometry x="10" y="20" width="210" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="WWhDUVCSwJI-fkxGkbqV-11" value="" style="group" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="250" y="525" width="220" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="WWhDUVCSwJI-fkxGkbqV-15" value="" style="group" vertex="1" connectable="0" parent="WWhDUVCSwJI-fkxGkbqV-11">
+          <mxGeometry width="220" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="WWhDUVCSwJI-fkxGkbqV-12" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WWhDUVCSwJI-fkxGkbqV-15">
+          <mxGeometry width="220" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="WWhDUVCSwJI-fkxGkbqV-13" value="Sensibiliser et éduquer la population sur les bonnes pratiques de gestion des déchets." style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="WWhDUVCSwJI-fkxGkbqV-15">
+          <mxGeometry x="10" y="20" width="210" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="WWhDUVCSwJI-fkxGkbqV-16" value="" style="group" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="747" y="524" width="220" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="WWhDUVCSwJI-fkxGkbqV-17" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WWhDUVCSwJI-fkxGkbqV-16">
+          <mxGeometry width="220" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="WWhDUVCSwJI-fkxGkbqV-18" value="Coopérer avec la mairie pour mettre en place des sanctions (amendes) dissuasives en cas de non-respect des règles" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="WWhDUVCSwJI-fkxGkbqV-16">
+          <mxGeometry x="10" y="20" width="210" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="WWhDUVCSwJI-fkxGkbqV-19" value="" style="group" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="500" y="524" width="220" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="WWhDUVCSwJI-fkxGkbqV-20" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WWhDUVCSwJI-fkxGkbqV-19">
+          <mxGeometry width="220" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="WWhDUVCSwJI-fkxGkbqV-21" value="Établir des règles et des principes pour promouvoir un environnement sain" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="WWhDUVCSwJI-fkxGkbqV-19">
+          <mxGeometry x="10" y="20" width="210" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="WWhDUVCSwJI-fkxGkbqV-22" value="" style="group" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="13" y="525" width="220" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="WWhDUVCSwJI-fkxGkbqV-23" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WWhDUVCSwJI-fkxGkbqV-22">
+          <mxGeometry width="220" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="WWhDUVCSwJI-fkxGkbqV-24" value="Augmenter la collecte sélective des déchets recyclables et compostables" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="WWhDUVCSwJI-fkxGkbqV-22">
+          <mxGeometry x="10" y="20" width="210" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="WWhDUVCSwJI-fkxGkbqV-28" value="" style="group" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="24" y="632" width="96" height="128" as="geometry" />
+        </mxCell>
+        <mxCell id="WWhDUVCSwJI-fkxGkbqV-29" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WWhDUVCSwJI-fkxGkbqV-28">
+          <mxGeometry width="96" height="128" as="geometry" />
+        </mxCell>
+        <mxCell id="WWhDUVCSwJI-fkxGkbqV-30" value="Installer des poubelles dédiées aux déchets recyclables et compostables dans tout le bidonville." style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="WWhDUVCSwJI-fkxGkbqV-28">
+          <mxGeometry x="4.363636363636364" y="42.66666666666666" width="91.63636363636364" height="42.66666666666666" as="geometry" />
+        </mxCell>
+        <mxCell id="WWhDUVCSwJI-fkxGkbqV-31" value="" style="group" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="139" y="633" width="96" height="98" as="geometry" />
+        </mxCell>
+        <mxCell id="WWhDUVCSwJI-fkxGkbqV-32" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WWhDUVCSwJI-fkxGkbqV-31">
+          <mxGeometry width="96" height="98.00000000000001" as="geometry" />
+        </mxCell>
+        <mxCell id="WWhDUVCSwJI-fkxGkbqV-33" value=" Mettre en place un système de collecte régulière des déchets recyclables et compostables." style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="WWhDUVCSwJI-fkxGkbqV-31">
+          <mxGeometry x="4.363636363636364" y="32.666666666666664" width="91.63636363636364" height="32.666666666666664" as="geometry" />
+        </mxCell>
+        <mxCell id="WWhDUVCSwJI-fkxGkbqV-34" value="" style="group" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="264" y="636" width="96" height="98" as="geometry" />
+        </mxCell>
+        <mxCell id="WWhDUVCSwJI-fkxGkbqV-35" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WWhDUVCSwJI-fkxGkbqV-34">
+          <mxGeometry width="96" height="98.00000000000001" as="geometry" />
+        </mxCell>
+        <mxCell id="WWhDUVCSwJI-fkxGkbqV-36" value=" Concevoir des programmes de sensibilisation sur la gestion des déchets et l&#39;importance du recyclage." style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="WWhDUVCSwJI-fkxGkbqV-34">
+          <mxGeometry x="4.363636363636364" y="32.666666666666664" width="91.63636363636364" height="32.666666666666664" as="geometry" />
+        </mxCell>
+        <mxCell id="WWhDUVCSwJI-fkxGkbqV-37" value="" style="group" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="383" y="636" width="96" height="98" as="geometry" />
+        </mxCell>
+        <mxCell id="WWhDUVCSwJI-fkxGkbqV-38" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WWhDUVCSwJI-fkxGkbqV-37">
+          <mxGeometry width="96" height="98.00000000000001" as="geometry" />
+        </mxCell>
+        <mxCell id="WWhDUVCSwJI-fkxGkbqV-39" value="Organiser des ateliers et des séances d&#39;information pour les habitants de Pandou." style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="WWhDUVCSwJI-fkxGkbqV-37">
+          <mxGeometry x="4.363636363636364" y="32.666666666666664" width="91.63636363636364" height="32.666666666666664" as="geometry" />
+        </mxCell>
+        <mxCell id="WWhDUVCSwJI-fkxGkbqV-40" value="" style="group" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="496" y="638" width="96" height="130" as="geometry" />
+        </mxCell>
+        <mxCell id="WWhDUVCSwJI-fkxGkbqV-41" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WWhDUVCSwJI-fkxGkbqV-40">
+          <mxGeometry width="96" height="130" as="geometry" />
+        </mxCell>
+        <mxCell id="WWhDUVCSwJI-fkxGkbqV-42" value=" Élaborer un ensemble de règles claires sur la gestion des déchets, telles que le tri sélectif et les horaires de collecte." style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="WWhDUVCSwJI-fkxGkbqV-40">
+          <mxGeometry x="3.36" y="28.67" width="91.64" height="77.33" as="geometry" />
+        </mxCell>
+        <mxCell id="WWhDUVCSwJI-fkxGkbqV-43" value="" style="group" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="615" y="640" width="96" height="130" as="geometry" />
+        </mxCell>
+        <mxCell id="WWhDUVCSwJI-fkxGkbqV-44" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WWhDUVCSwJI-fkxGkbqV-43">
+          <mxGeometry width="96" height="130" as="geometry" />
+        </mxCell>
+        <mxCell id="WWhDUVCSwJI-fkxGkbqV-45" value="Mettre en place des panneaux d&#39;affichage et des supports de communication pour informer la population sur les règles établies" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="WWhDUVCSwJI-fkxGkbqV-43">
+          <mxGeometry x="4.363636363636364" y="43.33333333333333" width="91.63636363636364" height="43.33333333333333" as="geometry" />
+        </mxCell>
+        <mxCell id="WWhDUVCSwJI-fkxGkbqV-46" value="" style="group" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="750" y="641" width="96" height="98" as="geometry" />
+        </mxCell>
+        <mxCell id="WWhDUVCSwJI-fkxGkbqV-47" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WWhDUVCSwJI-fkxGkbqV-46">
+          <mxGeometry width="96" height="98.00000000000001" as="geometry" />
+        </mxCell>
+        <mxCell id="WWhDUVCSwJI-fkxGkbqV-48" value="Collaborer avec la mairie pour identifier les infractions liées à la gestion des déchets." style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="WWhDUVCSwJI-fkxGkbqV-46">
+          <mxGeometry x="4.363636363636364" y="32.666666666666664" width="91.63636363636364" height="32.666666666666664" as="geometry" />
+        </mxCell>
+        <mxCell id="WWhDUVCSwJI-fkxGkbqV-49" value="" style="group" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="869" y="640" width="96" height="134" as="geometry" />
+        </mxCell>
+        <mxCell id="WWhDUVCSwJI-fkxGkbqV-50" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WWhDUVCSwJI-fkxGkbqV-49">
+          <mxGeometry width="96" height="134.00000000000003" as="geometry" />
+        </mxCell>
+        <mxCell id="WWhDUVCSwJI-fkxGkbqV-51" value=" Établir des sanctions proportionnées pour les contrevenants afin de dissuader les comportements non conformes." style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="WWhDUVCSwJI-fkxGkbqV-49">
+          <mxGeometry x="4.363636363636364" y="44.666666666666664" width="91.63636363636364" height="44.666666666666664" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
